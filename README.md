@@ -1,5 +1,3 @@
-![Coding]()
-
 - :nerd_face: I'm a civil engineer/data scientist at the [University of São Paulo](https://www5.usp.br/), [São Carlos School of Engineering](https://eesc.usp.br/), USP-EESC, Brazil.
 
 - :vertical_traffic_light: I am part of the Intelligent Transportation System Laboratory.
