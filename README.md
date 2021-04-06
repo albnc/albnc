@@ -1,3 +1,4 @@
+![Coding](https://images.unsplash.com/photo-1598688130667-aff9bba00312?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80)
 
 - :nerd_face: I'm a civil engineer/data scientist at the [University of São Paulo](https://www5.usp.br/), [São Carlos School of Engineering](https://eesc.usp.br/), USP-EESC, Brazil.
 
