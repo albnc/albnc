@@ -2,7 +2,7 @@
 
 - :vertical_traffic_light: I am part of the Intelligent Transportation System Laboratory.
 
-- :walking: I mostly work on travel behavior and urban traffic pattern.
+- :walking: I mostly work on traffic engineering, travel behavior and urban traffic pattern.
 
 - :computer: I teach and encourage programming ([Python](https://www.python.org/) and [R](https://www.rstudio.com/)) to my students.
 
