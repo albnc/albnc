@@ -4,7 +4,7 @@
 
 - :walking: I mostly work on traffic engineering, travel behavior and urban traffic pattern.
 
-- :computer: I teach and encourage programming ([Python](https://www.python.org/), [R](https://posit.co/), [Julia](https://julialang.org/)), and -- why not -- [Excel](https://learn.microsoft.com/en-us/office/client-developer/excel/excel-programming-concepts)) to my students.
+- :computer: I teach and encourage programming ([Python](https://www.python.org/), [R](https://posit.co/), [Julia](https://julialang.org/), and -- why not -- [Excel](https://learn.microsoft.com/en-us/office/client-developer/excel/excel-programming-concepts)) to my students.
 
 - :pencil: I write [papers](https://scholar.google.com/citations?hl=pt-BR&user=HI0CQJMAAAAJ&view_op=list_works&authuser=1&sortby=pubdate).
 
