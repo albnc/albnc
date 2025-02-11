@@ -1,8 +1,8 @@
 - :nerd_face: I'm a civil engineer/data scientist at the [University of São Paulo](https://www5.usp.br/), [São Carlos School of Engineering](https://eesc.usp.br/), USP-EESC, Brazil.
 
-- :vertical_traffic_light: I supervise the **Intelligent Transportation Systems Laboratory** research team.
+- :vertical_traffic_light: I supervise the __*Intelligent Transportation Systems Laboratory*__ research team.
 
-- :walking: My work focuses on traffic engineering, travel behavior, and urban traffic patterns.
+- :walking: My work focuses on __traffic engineering, travel behavior, and urban traffic patterns__.
 
 - :computer: I teach and promote programming ([Python](https://www.python.org/), [R](https://posit.co/), [Julia](https://julialang.org/), and -- why not -- [Excel](https://learn.microsoft.com/en-us/office/client-developer/excel/excel-programming-concepts) and [Power Query](https://learn.microsoft.com/en-us/power-query/)) to my students.
 
