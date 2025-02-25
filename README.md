@@ -67,14 +67,14 @@ Objectives
 <summary>Supervisions list</summary>
 
 ### Ongoing
-1. ME : [Rodrigo Otávio Fraga Peixoto de Oliveira](http://lattes.cnpq.br/3660336154224847) : *Avaliação da resiliência urbana por um estudo comparativo de métodos de previsão de alagamentos*
-2. ME : [Andressa Vitório Costa](http://lattes.cnpq.br/7862988333397510) : *Acessibilidade aos Serviços Sociais em Belo Horizonte-MG*
-3. ME : [Maria Eduarda Saquetto Michelini](http://lattes.cnpq.br/6355612958124418) : *Elaboração de modelo de estimativa de emissão de poluentes para casos brasileiros*
-4. DO : [Pedro Henrique Caldeira Caliari](http://lattes.cnpq.br/7503266177637246) : *Evaluation of causal inference and spatial effects on travel behavior*
-5. DO : [Thiago Vinícius Louro](https://lattes.cnpq.br/2619402198229137) : *Evaluating potential accessibility and spatial equity impacts of electric bicycles in São Paulo, Brazil*
-6. DO : [Elaine Rodrigues Ribeiro]() : *Análise do comportamento de motociclistas em trechos urbanos: relação entre pilotagem e perfil do condutor*
-7. DO : [Leandro Arab Marcomini]() : *Método de detecção e classificação de eixos de caminhões baseado em imagens de vídeo*
-8. DO : [Andre Borgato Morelli]() : *Análise da vulnerabilidade em redes urbanas brasileiras: Explorando o impacto de alagamentos e sua relação com a morfologia e uso do solo*
+1. ME : [Andressa Vitório Costa](http://lattes.cnpq.br/7862988333397510) : *Accessibility to Social Services in Belo Horizonte-MG* | (*Acessibilidade aos Serviços Sociais em Belo Horizonte-MG*)
+2. ME : [Maria Eduarda Saquetto Michelini](http://lattes.cnpq.br/6355612958124418) : ** | (*Elaboração de modelo de estimativa de emissão de poluentes para casos brasileiros*)
+3. ME : [Rodrigo Otávio Fraga Peixoto de Oliveira](http://lattes.cnpq.br/3660336154224847) : *Urban resilience assessment through a comparative study of flood prediction methods* | (*Avaliação da resiliência urbana por um estudo comparativo de métodos de previsão de alagamentos*)
+4. DO : [Andre Borgato Morelli]() : *Vulnerability analysis in Brazilian urban networks: Exploring the impact of flooding and its relationship with morphology and land use.* | (*Análise da vulnerabilidade em redes urbanas brasileiras: Explorando o impacto de alagamentos e sua relação com a morfologia e uso do solo*)
+5. DO : [Leandro Arab Marcomini]() : *Method for detecting and classifying truck axles based on video images* | (*Método de detecção e classificação de eixos de caminhões baseado em imagens de vídeo*)
+6. DO : [Elaine Rodrigues Ribeiro]() : *Analysis of motorcyclist' behaviour on urban segments: Relationship between riding patterns and rider profile* | (*Análise do comportamento de motociclistas em trechos urbanos: relação entre pilotagem e perfil do condutor*)
+7. DO : [Thiago Vinícius Louro](https://lattes.cnpq.br/2619402198229137) : *Evaluating potential accessibility and spatial equity impacts of electric bicycles in São Paulo, Brazil* | (*Evaluating potential accessibility and spatial equity impacts of electric bicycles in São Paulo, Brazil*)
+8. DO : [Pedro Henrique Caldeira Caliari](http://lattes.cnpq.br/7503266177637246) : *Evaluation of causal inference and spatial effects on travel behavior* | (*Evaluation of causal inference and spatial effects on travel behavior*)
 
 
 ### Defended
