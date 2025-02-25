@@ -16,7 +16,7 @@ My [linktree](https://linktr.ee/prof_alcunha) profile
 
 <details>
 
-<summary>Projects</summary>
+<summary>Research Themes</summary>
 
 ## Capacity and Level of Service on Highways
 Objectives
