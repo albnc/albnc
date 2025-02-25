@@ -18,12 +18,11 @@ My [linktree](https://linktr.ee/prof_alcunha) profile
 
 <summary>Projects</summary>
 
-### Capacity and Level of Service on Highways
+## Capacity and Level of Service on Highways
 Objectives
 : Study the effects of vehicle characteristics, traffic composition, and geometric design on the operation, service quality, and level of service of roadway components in Brazil.
 
-### Behavioral Modeling
-
+## Behavioral Modeling
 Objectives
 : Simulate traffic flows and analyze user behavior to support policy formulation and improve infrastructure planning.
 
@@ -32,11 +31,11 @@ Objectives
 3. Investigate motorcyclist behavior and multimodal users in urban environments.
 4. Evaluate the spatial variability of modal choices in metropolitan regions.
 
-### Traffic Flow Simulation
+## Traffic Flow Simulation
 Objectives
 : Study methods to improve the quality of macroscopic and microscopic traffic flow simulation on highways and urban roads in Brazil.
 
-### Intelligent Transportation Systems (ITS)
+## Intelligent Transportation Systems (ITS)
 Objectives
 : Develop innovative solutions for real-time traffic monitoring and urban mobility optimization using advanced sensing technologies and AI-based tools.
 
@@ -44,7 +43,7 @@ Objectives
 2. Apply machine learning and pattern recognition for anomaly detection in traffic systems.
 3. Enhance urban mobility systems' safety, efficiency, and sustainability.
 
-### Emerging Technologies for Transportation
+## Emerging Technologies for Transportation
 Objectives
 : Leverage next-generation technologies, including generative AI, agent-based modeling, and Digital Twin, to revolutionize urban mobility and transportation infrastructure.
 
@@ -52,7 +51,7 @@ Objectives
 2. Employ Digital Twin for real-time optimization of transportation systems.
 3. Automate vehicle classification and axle detection using computer vision.
 
-### Vulnerability and Accessibility in Transportation Networks
+## Vulnerability and Accessibility in Transportation Networks
 Objectives
 : Model and analyze transportation network vulnerability spatiotemporal dynamics to enhance infrastructure resilience and accessibility.
 
@@ -65,17 +64,19 @@ Objectives
 
 <details>
 
-<summary>List of Supervisions</summary>
+<summary>Supervisions list</summary>
 
 ### Ongoing
+1. ME : [Rodrigo Otávio Fraga Peixoto de Oliveira](http://lattes.cnpq.br/3660336154224847) : *Avaliação da resiliência urbana por um estudo comparativo de métodos de previsão de alagamentos*
+2. ME : [Andressa Vitório Costa](http://lattes.cnpq.br/7862988333397510) : *Acessibilidade aos Serviços Sociais em Belo Horizonte-MG*
+3. ME : [Maria Eduarda Saquetto Michelini](http://lattes.cnpq.br/6355612958124418) : *Elaboração de modelo de estimativa de emissão de poluentes para casos brasileiros*
+4. DO : [Pedro Henrique Caldeira Caliari](http://lattes.cnpq.br/7503266177637246) : *Evaluation of causal inference and spatial effects on travel behavior*
+5. DO : [Thiago Vinícius Louro](https://lattes.cnpq.br/2619402198229137) : *Evaluating potential accessibility and spatial equity impacts of electric bicycles in São Paulo, Brazil*
+6. DO : [Elaine Rodrigues Ribeiro]() : *Análise do comportamento de motociclistas em trechos urbanos: relação entre pilotagem e perfil do condutor*
+7. DO : [Leandro Arab Marcomini]() : *Método de detecção e classificação de eixos de caminhões baseado em imagens de vídeo*
+8. DO : [Andre Borgato Morelli]() : *Análise da vulnerabilidade em redes urbanas brasileiras: Explorando o impacto de alagamentos e sua relação com a morfologia e uso do solo*
 
-1. Andressa
-2. Maria Eduarda
-3. Otavio
 
-### Finished
-1. Christian
-2. Bruna
-3. Elaine
+### Defended
 
 </details>
