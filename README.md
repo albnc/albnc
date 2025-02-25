@@ -12,7 +12,6 @@
 - :motorcycle: I love riding motorcycles.
 
 ---
-My [linktree](https://linktr.ee/prof_alcunha) profile
 
 <details>
 
