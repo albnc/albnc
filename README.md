@@ -13,7 +13,7 @@
 
 ---
 
-## RESEARCH
+# RESEARCH
 
 <details>
 
@@ -66,7 +66,7 @@ Objectives
 </details>
 
 
-## SUPERVISION
+# SUPERVISION
 
 <details>
 
