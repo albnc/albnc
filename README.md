@@ -13,9 +13,11 @@
 
 ---
 
+## RESEARCH
+
 <details>
 
-<summary>##Research Field</summary>
+<summary>Research Field</summary>
 
 The research topics are listed in order of development projects.
 
@@ -64,9 +66,11 @@ Objectives
 </details>
 
 
+## SUPERVISION
+
 <details>
 
-<summary>Supervisions list</summary>
+<summary>Thesis and Dissertation Supervision</summary>
 
 ### Ongoing
 1. ME : [Andressa Vitório Costa](http://lattes.cnpq.br/7862988333397510) : *Accessibility to Social Services in Belo Horizonte-MG* | (*Acessibilidade aos Serviços Sociais em Belo Horizonte-MG*)
