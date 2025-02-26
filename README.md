@@ -66,11 +66,11 @@ Objectives
 </details>
 
 
-# SUPERVISION
+# ACADEMIC ADVISORY
 
 <details>
 
-<summary>Thesis and Dissertation Supervision</summary>
+<summary>Thesis and Dissertation</summary>
 
 ### Ongoing
 1. ME : [Andressa Vitório Costa](http://lattes.cnpq.br/7862988333397510) : *Accessibility to Social Services in Belo Horizonte-MG* | (*Acessibilidade aos Serviços Sociais em Belo Horizonte-MG*)
@@ -83,7 +83,7 @@ Objectives
 8. DO : [Pedro Henrique Caldeira Caliari](http://lattes.cnpq.br/7503266177637246) : *Evaluation of causal inference and spatial effects on travel behavior* | (*Avaliação da inferência causal e dos efeitos espaciais no comportamento de viagem*)
 
 
-### Defended
+### Concluded
 
 1. ME (2017-08-10): [Elaine Rodrigues Ribeiro](https://lattes.cnpq.br/4988917064689096) : *[Exploratory method analysis using Wavelet to detect patterns and anomalies in traffic history data](https://doi.org/10.11606/D.18.2017.tde-07112017-212156)* | (*Análise exploratória de método utilizando Wavelet para detecção de padrões e anomalias em dados históricos do tráfego veicular*)
 2. ME (2018-07-20): [Gabriel Jurado Martins de Oliveira](https://lattes.cnpq.br/1828432370828925) : *[Calibration of speed-flow relationship for freeways and multilane highways](https://doi.org/10.11606/D.18.2018.tde-10092018-150848)* | (*Calibração da relação fluxo-velocidade para autoestradas e rodovias de pista dupla*)
@@ -98,4 +98,13 @@ Objectives
 11. ME (2022-08-19): [Paola Yumi Matsumoto](https://lattes.cnpq.br/6933325479741942) : *[Calibration of Cellular Automata model for simulation of the traffic flow behavior in São Paulo roads](https://doi.org/10.11606/D.18.2022.tde-18102022-103557)* | (*Calibração de modelo Cellular Automata para simulação do comportamento do tráfego veicular em rodovias paulistas*)
 12. ME (2024-08-27): [Crhistian Emilio Ribeiro]() : *[Evaluation of deep neural networks for vehicle detection in satellite images](https://doi.org/10.11606/D.18.2024.tde-31102024-114415)* | (*Avaliação de redes neurais profundas para detecção veicular em imagens de satélite*)
 
+</details>
+
+<details>
+  <summary>Undergraduate</summary>
+
+  ## Capstone Project
+  
+  ## Scientific Initiation
+  
 </details>
