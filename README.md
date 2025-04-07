@@ -84,7 +84,7 @@ Objectives
 
 3. *Development of a Capacity Manual for highways in São Paulo State*. Technical-Scientific Cooperation Agreement between ARTESP (São Paulo State Transport Regulatory Agency) and USP-EESC (São Carlos School of Engineering, University of São Paulo). Coordinator: [Prof. José Reynaldo Anselmo Setti](https://scholar.google.hr/citations?hl=en&user=dhzpfA0AAAAJ), USP-EESC — Duration: November 2018 to present.
 
-Innovative Control Strategies for Sustainable Mobility in Smart Cities. Coordinator: [Prof. Tonci Caric](https://scholar.google.hr/citations?user=wPlWhpsAAAAJ&hl=en), University of Zagreb (UNIZG) — Duration: 05/25/2021 to 12/31/2021.
+4. *Innovative Control Strategies for Sustainable Mobility in Smart Cities*. Coordinator: [Prof. Tonci Caric](https://scholar.google.hr/citations?user=wPlWhpsAAAAJ&hl=en), University of Zagreb (UNIZG) — Duration: 05/25/2021 to 12/31/2021.
 
 </details>
 
