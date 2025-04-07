@@ -62,7 +62,7 @@ Objectives
 Objectives
 : Study the effects of vehicle characteristics, traffic composition, and geometric design on the operation, service quality, and level of service of roadway components in Brazil.
 
-<\details>
+</details>
 
 
 <details>
