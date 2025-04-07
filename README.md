@@ -103,8 +103,90 @@ Objectives
 <details>
   <summary>Undergraduate</summary>
 
-  ## Capstone Project
-  
   ## Scientific Initiation
+  ### Ongoing
+1. Patrick Gabriel Quintino. *Impacto da composição da frota de caminhões em projetos de rampas de escape de emergência*. 2024. Iniciação científica (Engenharia Civil) - Universidade de São Paulo. Bolsista PUB (Programa Unificado de Bolsas).
+
+2. Gabriel Brunhara Alizon. *Vulnerabilidade de vias urbanas a eventos climáticos extremos a partir de características topográficas e morfológica*. 2024. Iniciação científica (Engenharia Civil) - Universidade de São Paulo. Bolsista CNPq PIBIC (Programa Institucional de Bolsas de Iniciação Científica).
+  
+  ### Concluded
+1. Fernando Silva Lima. *Calibração dos parâmetros fundamentais das curvas fluxo-velocidade em rodovias divididas do estado de São Paulo*. 2017. Iniciação científica (Engenharia Civil) - Universidade de São Paulo. Bolsista CNPq PIBIC (Programa Institucional de Bolsas de Iniciação Científica) -- 01/08/2016 a 31/07/2017
+
+2. Luiza Fonseca Orlando. *Caracterização do comportamento dos motoristas a partir de dados compartilhados em serviços de  mapeamento de tráfego*. 2018. Iniciação científica (Engenharia Civil) - Universidade de São Paulo. Sem bolsa -- 24/10/2017 a 23/10/2018.
+
+3. Paulo Cesar Rodrigues Filho. *Calibração dos parâmetros do  comportamento dos motoristas em rodovias paulistas para o modelo de simulação VISSIM*. 2018. Iniciação científica (Engenharia Civil) - Universidade de São Paulo. Bolsista PUB (Programa Unificado de Bolsas) -- 17/08/2017 a 16/08/2018.
+
+4. Luciane Sobral. *Análise do impacto da liberação do caminhão canavieiro de 91 toneladas na infraestrutura viária*. 2018. Iniciação científica (Engenharia Civil) - Universidade de São Paulo. Bolsista PUB (Programa Unificado de Bolsas) -- 05/09/2017 a 04/09/2018.
+
+5. Leticia Lourenço. *Análise das alterações na legislação de pesos de veículos no impacto da  vida útil do pavimento*. 2018. Iniciação científica (Engenharia Civil) - Universidade de São Paulo. Bolsista PUB (Programa Unificado de Bolsas) -- 07/09/2017 a 06/09/2018.
+
+6. Eraldo Dias de Castro Neto. *Análise de acessibilidade em ciclovias a partir do esforço total do ciclista*. 2019. Iniciação científica (Engenharia Civil) - Universidade de São Paulo. Bolsista CNPq PIBIC (Programa Institucional de Bolsas de Iniciação Científica) -- 01/08/2019 a 31/07/2020.
+
+7. Danilo Bovo Carneiro. *Implementação de um modelo de simulação de tráfego rodoviário usando Cellular Automata*. 2020. Iniciação científica (Engenharia Civil) - Universidade de São Paulo. Bolsista PUB (Programa Unificado de Bolsas) -- 13/08/2019 a 12/08/2020.
+
+8. Lucas Locatelli Helena. *Método baseado em imagem para detecção de eixos e classificação de caminhões*. 2020. Iniciação científica (Engenharia Elétrica) - Universidade de São Paulo. Bolsista CNPq do Projeto Nº 436954/2018-4 -- 31/08/2020 a 01/02/2021.
+
+9. Pedro Henrique de Lima Bertoli. *Impacto da pandemia no perfil de viagens dos usuários de rodovias em São Paulo*. 2022. Iniciação científica (Engenharia Civil) - Universidade de São Paulo. Bolsista PUB (Programa Unificado de Bolsas) -- 07/09/2021 a 06/09/2022.
+
+10. Felipe Urso Parreira Pinto. *Efeito do lockdown sobre a pandemia de COVID-19: estudo comparativo entre Austrália e Brasil*. 2022. Iniciação científica (Engenharia Civil) - Universidade de São Paulo. Bolsista PUB (Programa Unificado de Bolsas) -- 19/08/2021 a 18/08/2022.
+
+11. Andre de Carvalho Fiedler. *Catalogação dos processos de espraiamento urbano em cidades brasileiras a partir da teoria dos grafos*. 2022. Iniciação científica (Engenharia Civil) - Universidade de São Paulo. Bolsista PUB (Programa Unificado de Bolsas) -- 28/08/2021 a 27/08/2022.
+
+12. Miguel José Sertori. *Criação de banco de dados de imagens de caminhões para classificação automática*. 2023. Iniciação científica (Engenharia Civil) - Universidade de São Paulo. Bolsista PUB (Programa Unificado de Bolsas) -- 16/08/2022 a 15/08/2023.
+
+13. Luan Andre Contel. *Criação de banco de dados de imagens de satélite para detecção de veículos*. 2024. Iniciação científica (Engenharia Civil) - Universidade de São Paulo. Bolsista PUB (Programa Unificado de Bolsas) -- 31/08/2023 a 30/08/2024.
+
+14. Guilherme Lima Bigatao. *Análise do padrão de viagens feitas por bicicletas elétricas e convencionais em um sistema de compartilhamento de bicicletas na cidade de São Paulo*. 2024. Iniciação científica (Engenharia Civil) - Universidade de São Paulo. Bolsista PUB (Programa Unificado de Bolsas) -- 31/08/2023 a 30/08/2024.  
+  
+  ## Capstone Project
+1. Diego César Corte. *Proposta de um novo projeto geométrico para a interseção mais crítica da rodovia Régis Bittencourt*. 2015. Curso (Engenharia Civil) - Universidade de São Paulo
+
+2. Guilherme Niobey Frossard. *Proposta de um  novo terminal de passageiros para o aeroporto de São Carlos*. 2015. Curso (Engenharia Civil) - Universidade de São Paulo
+
+3. Humberto Claudio Manrique. *Desenvolvimento de ferramenta de análise de capacidade e nível de serviço de rodovias*. 2015. Curso (Engenharia Civil) - Universidade de São Paulo
+
+4. André Borgato Morelli. *Projeto de rede cicloviária para o município de Monte Alto, SP*. 2016. Curso (Engenharia Civil) - Universidade de São Paulo
+
+5. Rafael Kiyoshi Shitara. *Avaliação do plano semafórico de cruzamentos críticos de São Carlos*. 2016. Curso (Engenharia Civil) - Universidade de São Paulo
+
+6. Fernando Silva Lima. *Comparação dos níveis de serviço em rodovias obtidos através do método do HCM e do calibrado para rodovias paulistas*. 2018. Curso (Engenharia Civil) - Universidade de São Paulo
+
+7. Isadora Gaidzakian Jorge. *Adequação do campus para utilização de veículos autônomos - estudo da ociosidade de vagas de estacionamento*. 2018. Curso (Engenharia Civil) - Universidade de São Paulo
+
+8. Francisco Mattos Fortes. *Projeto de sistema de progressão semafórica para as Av. Dr. Carlos Botelho e R. 15 de Novembro*. 2019. Curso (Engenharia Civil) - Universidade de São Paulo
+
+9. Kaique Dantas Oliveira. *Intervenção de mobilidade urbana na Praça Antonio Adolpho Lobbe (rotatória do Cristo) na cidade de São Carlos-SP*. 2019. Curso (Engenharia Civil) - Universidade de São Paulo
+
+10. Luis Gustavo Müller. *Estudo da viabilidade de implantação de uma rede de parcel lockers na cidade de Piracicaba*. 2019. Curso (Engenharia Civil) - Universidade de São Paulo
+
+11. Eduardo Sene Eisele. *Estudo da viabilidade de implantação de um centro de distribuição urbana na cidade de São Carlos*. 2019. Curso (Engenharia Civil) - Universidade de São Paulo
+
+12. Felipe Baldisseri. *Avaliação de uma nova linha metroviáriana região metropolitana de São Paulo baseada nos dados da Pesquisa Origem-Destino do Metrô SP*. 2019. Curso (Engenharia Civil) - Universidade de São Paulo
+
+13. Edmar Pereira dos Santos Filho. *Redução do consumo de diesel em paradas na operação ferroviária por meio do desligamento automático de locomotivas*. 2021. Curso (Engenharia Civil) - Universidade de São Paulo
+
+14. Henrique Luiz Shibata Gino. *Proposta de modelo operacional para viagens de ônibus durante a pandemia da COVID-19*. 2021. Curso (Engenharia Civil) - Universidade de São Paulo
+
+15. Eraldo Dias de Castro Neto. *Projeto de ciclovia energeticamente confortável ao usuário para a cidade de São Carlos*. 2021. Curso (Engenharia Civil) - Universidade de São Paulo
+
+16. Breno da Cunha Costa. *Aplicação de políticas ESG em operação logística de empresa varejista*. 2021. Curso (Engenharia Civil) - Universidade de São Paulo
+
+17. Gabriel Passos Bandeira. *Análise do impacto da testagem populacional na disseminação da COVID-19 na cidade de Ribeirão Preto no primeiro semestre de 2021*. 2021. Curso (Engenharia Civil) - Universidade de São Paulo
+
+18. Láisla Beatriz de Carvalho Penido. *Análise da viabilidade da implantação de um sistema de parcel locker na cidade de Campinas/SP*. 2021. Curso (Engenharia Civil) - Universidade de São Paulo
+
+19. Helena Tanoue Vizioli. *Implementação de controle de velocidade limite variável na rodovia dos Bandeirantes*. 2022. Curso (Engenharia Civil) - Universidade de São Paulo
+
+20. Tainan Rodrigues Corrêa. *Proposta de programação semafórica isolada de tempo fixo em um cruzamento da cidade de Lençóis Paulista-SP*. 2023. Curso (Engenharia Civil) - Universidade de São Paulo
+
+21. Francisco Andreson de Moura. *Aplicação de pesquisa operacional na operação logística de um centro de distribuição*. 2023. Curso (Engenharia Civil) - Universidade de São Paulo
+
+22. Pedro Henrique de Lima Bertoli. *Estudo de viabilidade econômico-financeiro para a implantação de uma linha de ônibus entre as cidades de Lençóis Paulista/SP e São Carlos/SP*. 2024. Curso (Engenharia Civil) - Universidade de São Paulo
+
+23. Miguel José Sertori. *Estudo de Capacidade Viária devido à Instalação de um Edifício Residencial no Município de Bebedouro – SP*. 2024. Curso (Engenharia Civil) - Universidade de São Paulo
+
+24. Guilherme Souza Araujo. *Análise da viabilidade financeira de uma planta de geração de energia solar na Paraíba*. 2024. Curso (Engenharia Civil) - Universidade de São Paulo
+
+  
   
 </details>
