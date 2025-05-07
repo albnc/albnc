@@ -1,3 +1,46 @@
+🚀 About Me
+Civil Engineer | Data Scientist | Transportation Researcher
+📍 Intelligent Transportation Systems Lab, University of São Paulo (USP-EESC)
+
+🔍 Research Focus
+
+    Traffic Engineering: Modeling urban traffic patterns using AI/ML
+
+    Travel Behavior: Analyzing mobility data (Python/R/Julia)
+
+    Smart Cities: Developing tools for sustainable transport
+
+👨‍🏫 Teaching & Open Science
+
+    Teach computational methods for transport analysis (Python, R, Julia)
+
+    Advocate for reproducible research – sharing code/datasets here
+
+    Yes, even Excel/Power Query when it’s the right tool!
+
+📚 Publications
+
+    20+ papers on ITS, traffic simulation, and data-driven planning
+
+    Latest: "Graph Neural Networks for Crash Risk Prediction" (arXiv)
+
+⚡ Beyond Academia
+
+    🏊‍♂️ Open-water swimmer (Channel-crossing aspirant?)
+
+    🏍️ Motorcycle enthusiast (because traffic flow isn’t the only flow I love)
+
+💬 Let’s collaborate on:
+
+    Open-source transport tools
+
+    Data-driven policy research
+
+    Python/R libraries for traffic analysis
+
+
+
+
 - :nerd_face: I'm a civil engineer/data scientist at the [University of São Paulo](https://www5.usp.br/), [São Carlos School of Engineering](https://eesc.usp.br/), USP-EESC, Brazil.
 
 - :vertical_traffic_light: I supervise the __*Intelligent Transportation Systems Laboratory*__ research team.
