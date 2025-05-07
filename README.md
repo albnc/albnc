@@ -4,11 +4,11 @@
 
 🔍 **Research Focus**
 
-- Traffic Engineering: Modeling urban traffic patterns using AI/ML
+- *Traffic Engineering*: Modeling urban traffic patterns using AI/ML
 
-- Travel Behavior: Analyzing mobility data (Python/R/Julia)
+- *Travel Behavior*: Analyzing mobility data (Python/R/Julia)
 
-- Smart Cities: Developing tools for sustainable transport
+- *Smart Cities*: Developing tools for sustainable transport
 
 👨‍🏫 **Teaching & Open Science**
 
