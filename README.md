@@ -1,34 +1,42 @@
-🚀 About Me
+🚀 **About Me**
+
 Civil Engineer | Data Scientist | Transportation Researcher
-📍 Intelligent Transportation Systems Lab, University of São Paulo (USP-EESC)
 
-🔍 Research Focus
+📍Intelligent Transportation Systems Lab, University of São Paulo ([USP](https://www5.usp.br/)-[EESC](https://eesc.usp.br/))
 
-    Traffic Engineering: Modeling urban traffic patterns using AI/ML
 
-    Travel Behavior: Analyzing mobility data (Python/R/Julia)
+🔍 **Research Focus**
 
-    Smart Cities: Developing tools for sustainable transport
+- Traffic Engineering: Modeling urban traffic patterns using AI/ML
 
-👨‍🏫 Teaching & Open Science
+- Travel Behavior: Analyzing mobility data (Python/R/Julia)
 
-    Teach computational methods for transport analysis (Python, R, Julia)
+- Smart Cities: Developing tools for sustainable transport
 
-    Advocate for reproducible research – sharing code/datasets here
+👨‍🏫 **Teaching & Open Science**
 
-    Yes, even Excel/Power Query when it’s the right tool!
+- Teach computational methods for transport analysis ([Python](https://www.python.org/), [R](https://posit.co/), [Julia](https://julialang.org/))
 
-📚 Publications
+- Advocate for reproducible research – sharing code/datasets [here](https://github.com/albnc)
 
-    20+ papers on ITS, traffic simulation, and data-driven planning
+- Yes, even [Excel](https://learn.microsoft.com/en-us/office/client-developer/excel/excel-programming-concepts)/[Power Query](https://learn.microsoft.com/en-us/power-query/) when it’s the right tool!
 
-    Latest: "Graph Neural Networks for Crash Risk Prediction" (arXiv)
 
-⚡ Beyond Academia
+📚 **Publications**
 
-    🏊‍♂️ Open-water swimmer (Channel-crossing aspirant?)
+- 20+ [papers](https://scholar.google.com/citations?hl=pt-BR&user=HI0CQJMAAAAJ&view_op=list_works&authuser=1&sortby=pubdate) on ITS, traffic simulation, and data-driven planning
 
-    🏍️ Motorcycle enthusiast (because traffic flow isn’t the only flow I love)
+- Links: [ORCID](https://orcid.org/0000-0002-0520-0621) | 
+[LinkedIn](https://www.linkedin.com/in/prof-alcunha/) |
+[Lattes](http://lattes.cnpq.br/7996696632908127) | 
+[LinkTree](https://linktr.ee/prof_alcunha)
+
+
+⚡ Byond Academia**
+
+- 🏊‍♂️ Open-water swimmer (Channel-crossing aspirant?)
+
+- 🏍️ Motorcycle enthusiast (because traffic flow isn’t the only flow I love)
 
 💬 Let’s collaborate on:
 
