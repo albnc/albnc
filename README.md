@@ -1,9 +1,6 @@
-🚀 **About Me**
-
-Civil Engineer | Data Scientist | Transportation Researcher
+🚀 **About Me**: Civil Engineer | Data Scientist | Transportation Researcher
 
 📍Intelligent Transportation Systems Lab, University of São Paulo ([USP](https://www5.usp.br/)-[EESC](https://eesc.usp.br/))
-
 
 🔍 **Research Focus**
 
@@ -48,7 +45,7 @@ Civil Engineer | Data Scientist | Transportation Researcher
 
 
 
-
+<!--
 - :nerd_face: I'm a civil engineer/data scientist at the [University of São Paulo](https://www5.usp.br/), [São Carlos School of Engineering](https://eesc.usp.br/), USP-EESC, Brazil.
 
 - :vertical_traffic_light: I supervise the __*Intelligent Transportation Systems Laboratory*__ research team.
@@ -61,7 +58,7 @@ Civil Engineer | Data Scientist | Transportation Researcher
 
 - :swimmer: I am an [open-water swimmer](https://lh3.googleusercontent.com/pw/ACtC-3eaTkhve3cYQodL9pa6Gi1h2mmZWGQPBU7BE326s9Kbl02DkbVY2UkHfGuECbdUrF0RPGEftgmsWZkZudKj25bBdvXKDrmgdXjvhEnsd7dY7kqZbAbR8pAzp_0Wq-8nGQoAyeO_vXG3h-moLY2JFyKFuA=w1224-h816-no?authuser=0). 
 - :motorcycle: I love riding motorcycles.
-
+-->
 ---
 
 # RESEARCH
