@@ -32,7 +32,7 @@ Civil Engineer | Data Scientist | Transportation Researcher
 [LinkTree](https://linktr.ee/prof_alcunha)
 
 
-⚡ Byond Academia**
+⚡  **Beyond Academia**
 
 - 🏊‍♂️ Open-water swimmer (Channel-crossing aspirant?)
 
