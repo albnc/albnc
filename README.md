@@ -38,13 +38,13 @@ Civil Engineer | Data Scientist | Transportation Researcher
 
 - 🏍️ Motorcycle enthusiast (because traffic flow isn’t the only flow I love)
 
-💬 Let’s collaborate on:
+💬 **Let’s collaborate on**:
 
-    Open-source transport tools
+- Open-source transport tools
 
-    Data-driven policy research
+- Data-driven policy research
 
-    Python/R libraries for traffic analysis
+- Python/R libraries for traffic analysis
 
 
 
