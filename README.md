@@ -29,9 +29,9 @@
 [LinkTree](https://linktr.ee/prof_alcunha)
 
 
-⚡  **Beyond Academia**
+⚡ **Beyond Academia**
 
-- 🏊‍♂️[ Oopen-water swimmer](https://lh3.googleusercontent.com/pw/ACtC-3eaTkhve3cYQodL9pa6Gi1h2mmZWGQPBU7BE326s9Kbl02DkbVY2UkHfGuECbdUrF0RPGEftgmsWZkZudKj25bBdvXKDrmgdXjvhEnsd7dY7kqZbAbR8pAzp_0Wq-8nGQoAyeO_vXG3h-moLY2JFyKFuA=w1224-h816-no?authuser=0) (Channel-crossing aspirant?)
+- 🏊‍♂️ [Open-water swimmer](https://lh3.googleusercontent.com/pw/ACtC-3eaTkhve3cYQodL9pa6Gi1h2mmZWGQPBU7BE326s9Kbl02DkbVY2UkHfGuECbdUrF0RPGEftgmsWZkZudKj25bBdvXKDrmgdXjvhEnsd7dY7kqZbAbR8pAzp_0Wq-8nGQoAyeO_vXG3h-moLY2JFyKFuA=w1224-h816-no?authuser=0) (Channel-crossing aspirant?)
 
 - 🏍️ Motorcycle enthusiast (because traffic flow isn’t the only flow I love)
 
