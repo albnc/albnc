@@ -21,7 +21,7 @@
 
 📚 **Publications**
 
-- 20+ [papers](https://scholar.google.com/citations?hl=pt-BR&user=HI0CQJMAAAAJ&view_op=list_works&authuser=1&sortby=pubdate) on ITS, traffic simulation, and data-driven planning
+- 80+ [papers](https://scholar.google.com/citations?hl=pt-BR&user=HI0CQJMAAAAJ&view_op=list_works&authuser=1&sortby=pubdate) on ITS, traffic simulation, and data-driven planning
 
 - Links: [ORCID](https://orcid.org/0000-0002-0520-0621) | 
 [LinkedIn](https://www.linkedin.com/in/prof-alcunha/) |
@@ -31,7 +31,7 @@
 
 ⚡  **Beyond Academia**
 
-- 🏊‍♂️ Open-water swimmer (Channel-crossing aspirant?)
+- 🏊‍♂️ Oopen-water swimmer](https://lh3.googleusercontent.com/pw/ACtC-3eaTkhve3cYQodL9pa6Gi1h2mmZWGQPBU7BE326s9Kbl02DkbVY2UkHfGuECbdUrF0RPGEftgmsWZkZudKj25bBdvXKDrmgdXjvhEnsd7dY7kqZbAbR8pAzp_0Wq-8nGQoAyeO_vXG3h-moLY2JFyKFuA=w1224-h816-no?authuser=0) (Channel-crossing aspirant?)
 
 - 🏍️ Motorcycle enthusiast (because traffic flow isn’t the only flow I love)
 
