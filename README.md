@@ -6,7 +6,7 @@
 
 - *Traffic Engineering*: Modeling urban traffic patterns using AI/ML
 
-- *Travel Behavior*: Analyzing mobility data (Python/R/Julia)
+- *Travel Behavior*: Analyzing mobility data
 
 - *Smart Cities*: Developing tools for sustainable transport
 
