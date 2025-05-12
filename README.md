@@ -102,14 +102,14 @@ Objectives
   
 <summary>Projects</summary>
 
-## Coordinator
+## Principal Investigator (PI)
 1. CNPq Grant 436954/2018-4. *Image-based method for axle detection and truck classification*. University of São Paulo (USP). MCTIC/CNPq Call No. 28/2018 – Universal. — Project completed on 04/29/2022.
 
 2. CNPq Grant 311964/2022-2. *Artificial Intelligence: development of tools for urban mobility*. University of São Paulo (USP). CNPq Call No. 09/2022 – Research Productivity Fellowship (PQ). — Duration: 03/01/2023 to 02/28/2026.
 
 3. CNPq Grant 409087/2023-8. *Rethinking traffic modeling in transport networks for the new generation of smart and connected cities*. University of São Paulo (USP). CNPq/MCTI Call No. 10/2023 – Track B – Consolidated Research Groups. — Duration: 12/05/2023 to 12/31/2026.
 
-## Collaborator
+## Co Principal Investigator (Co-PI)
 
 1. *Studies aimed at promoting sustainable and safe urban mobility*. Coordinator: [Prof. Paulo Cesar Marques da Silva](http://lattes.cnpq.br/1518119916915399), University of Brasília (UnB). CAPES/FCT Program No. 39/2017 — Duration: 12/05/2023 to 12/31/2026.
 
