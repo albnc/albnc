@@ -47,12 +47,12 @@
 ---
 
 # RESEARCH
-<img src="E_WEB_09.png" alt="Infrastructure and Industrialization" width="200" height="200">
+<img src="E_WEB_09.png" alt="Infrastructure and Industrialization" width="100" height="100">
 
-<img src="E_WEB_11.png" alt="Sustainable Cities" width="200" height="200">
+<img src="E_WEB_11.png" alt="Sustainable Cities" width="100" height="100">
 <!--![Sustainable Cities](E_WEB_11.png){width=100}-->
 
-<img src="E_WEB_13.png" alt="Climate Change" width="200" height="200">
+<img src="E_WEB_13.png" alt="Climate Change" width="100" height="100">
 
 <!--<img src="11_SDG_MakeEveryDayCount_Gifs_GDU.gif" alt="Sustainable Cities and Communities" width="200" height="200">
 ![Sustainable Cities and Communities](11_SDG_MakeEveryDayCount_Gifs_GDU.gif){width=100}-->
