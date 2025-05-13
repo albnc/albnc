@@ -47,9 +47,12 @@
 ---
 
 # RESEARCH
-![Sustainable Cities](E_WEB_11.png){width=100}
+<img src="E_WEB_11.png" alt="Sustainable Cities" width="200" height="200">
+<!--![Sustainable Cities](E_WEB_11.png){width=100}-->
 
-![Sustainable Cities and Communities](11_SDG_MakeEveryDayCount_Gifs_GDU.gif){width=100}
+<img src="11_SDG_MakeEveryDayCount_Gifs_GDU.gif" alt="Sustainable Cities and Communities" width="200" height="200">
+<!--![Sustainable Cities and Communities](11_SDG_MakeEveryDayCount_Gifs_GDU.gif){width=100}-->
+
 <details>
 
 <summary>Research Field</summary>
