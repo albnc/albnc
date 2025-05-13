@@ -114,7 +114,7 @@ Objectives
 
 3. CNPq Grant 409087/2023-8. *Rethinking traffic modeling in transport networks for the new generation of smart and connected cities*. University of São Paulo (USP). CNPq/MCTI Call No. 10/2023 – Track B – Consolidated Research Groups. — Duration: 12/05/2023 to 12/31/2026.
 
-## Co Principal Investigator (Co-PI)
+## Co-Principal Investigator (Co-PI)
 
 1. *Studies aimed at promoting sustainable and safe urban mobility*. Coordinator: [Prof. Paulo Cesar Marques da Silva](http://lattes.cnpq.br/1518119916915399), University of Brasília (UnB). CAPES/FCT Program No. 39/2017 — Duration: 12/05/2023 to 12/31/2026.
 
