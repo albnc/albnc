@@ -47,8 +47,8 @@
 ---
 
 # RESEARCH
-![Sustainable Cities](E_WEB_11.png|200)
-![Sustainable Cities and Communities](11_SDG_MakeEveryDayCount_Gifs_GDU.gif|200)
+![Sustainable Cities](E_WEB_11.png){width=200}
+![Sustainable Cities and Communities](11_SDG_MakeEveryDayCount_Gifs_GDU.gif){width=200}
 <details>
 
 <summary>Research Field</summary>
