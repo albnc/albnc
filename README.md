@@ -52,7 +52,7 @@
 -->
 
 
-<img src="_imgs/E_WEB_09.png" alt="Infrastructure and Industrialization" width="150" height="150"><img src="_imgs/E_WEB_11.png" alt="Sustainable Cities" width="150" height="150"><img src="_imgs/E_WEB_13.png" alt="Climate Change" width="150" height="150">
+<img src="_imgs/E_WEB_09.png" alt="Infrastructure and Industrialization" width="150" height="150"> <img src="_imgs/E_WEB_11.png" alt="Sustainable Cities" width="150" height="150"> <img src="_imgs/E_WEB_13.png" alt="Climate Change" width="150" height="150">
 
 <details>
 
