@@ -47,7 +47,9 @@
 ---
 
 # RESEARCH
-<img src="_imgs/9_SDG_MakeEveryDayCount_Gifs_GDU.gif" alt="Infrastructure and Industrialization" width="250" height="250"> <img src="_imgs/11_SDG_MakeEveryDayCount_Gifs_GDU.gif" alt="Sustainable Cities" width="250" height="250"> <img src="_imgs/13_SDG_MakeEveryDayCount_Gifs_GDU.gif" alt="Climate Change" width="250" height="250">
+<img src="_imgs/9_SDG_MakeEveryDayCount_Gifs_GDU.gif" alt="Infrastructure and Industrialization" width="250" height="250"> 
+<img src="_imgs/11_SDG_MakeEveryDayCount_Gifs_GDU.gif" alt="Sustainable Cities" width="250" height="250"> 
+<img src="_imgs/13_SDG_MakeEveryDayCount_Gifs_GDU.gif" alt="Climate Change" width="250" height="250">
 
 <!--
 <img src="_imgs/E_WEB_09.png" alt="Infrastructure and Industrialization" width="150" height="150"> <img src="_imgs/E_WEB_11.png" alt="Sustainable Cities" width="150" height="150"> <img src="_imgs/E_WEB_13.png" alt="Climate Change" width="150" height="150">
