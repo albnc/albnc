@@ -134,14 +134,16 @@ Objectives
 <summary>Thesis and Dissertation</summary>
 
 ### Ongoing
+1. MSc : [Murilo Colin da Silveira](http://lattes.cnpq.br/2158424254735233) : *to be defined* | (*a definir*)
+
 1. MSc : [Andressa Vitório Costa](http://lattes.cnpq.br/7862988333397510) : *Accessibility to Social Services in Belo Horizonte-MG* | (*Acessibilidade aos Serviços Sociais em Belo Horizonte-MG*)
-2. MSc : [Maria Eduarda Saquetto Michelini](http://lattes.cnpq.br/6355612958124418) : *Development of an Emission Estimation Model for Brazilian Cases* | (*Elaboração de modelo de estimativa de emissão de poluentes para casos brasileiros*)
-3. MSc : [Rodrigo Otávio Fraga Peixoto de Oliveira](http://lattes.cnpq.br/3660336154224847) : *Urban resilience assessment through a comparative study of flood prediction methods* | (*Avaliação da resiliência urbana por um estudo comparativo de métodos de previsão de alagamentos*)
-4. PhD : [Andre Borgato Morelli]() : *Vulnerability analysis in Brazilian urban networks: Exploring the impact of flooding and its relationship with morphology and land use.* | (*Análise da vulnerabilidade em redes urbanas brasileiras: Explorando o impacto de alagamentos e sua relação com a morfologia e uso do solo*)
-5. PhD : [Leandro Arab Marcomini]() : *Method for detecting and classifying truck axles based on video images* | (*Método de detecção e classificação de eixos de caminhões baseado em imagens de vídeo*)
-6. PhD : [Elaine Rodrigues Ribeiro]() : *Analysis of motorcyclist' behaviour on urban segments: Relationship between riding patterns and rider profile* | (*Análise do comportamento de motociclistas em trechos urbanos: relação entre pilotagem e perfil do condutor*)
-7. PhD : [Thiago Vinícius Louro](https://lattes.cnpq.br/2619402198229137) : *Evaluating potential accessibility and spatial equity impacts of electric bicycles in São Paulo, Brazil* | (*Avaliando os impactos potenciais da acessibilidade e equidade espacial das bicicletas elétricas em São Paulo, Brasil*)
-8. PhD : [Pedro Henrique Caldeira Caliari](http://lattes.cnpq.br/7503266177637246) : *Evaluation of causal inference and spatial effects on travel behavior* | (*Avaliação da inferência causal e dos efeitos espaciais no comportamento de viagem*)
+1. MSc : [Maria Eduarda Saquetto Michelini](http://lattes.cnpq.br/6355612958124418) : *Development of an Emission Estimation Model for Brazilian Cases* | (*Elaboração de modelo de estimativa de emissão de poluentes para casos brasileiros*)
+1. MSc : [Rodrigo Otávio Fraga Peixoto de Oliveira](http://lattes.cnpq.br/3660336154224847) : *Urban resilience assessment through a comparative study of flood prediction methods* | (*Avaliação da resiliência urbana por um estudo comparativo de métodos de previsão de alagamentos*)
+1. PhD : [Andre Borgato Morelli]() : *Vulnerability analysis in Brazilian urban networks: Exploring the impact of flooding and its relationship with morphology and land use.* | (*Análise da vulnerabilidade em redes urbanas brasileiras: Explorando o impacto de alagamentos e sua relação com a morfologia e uso do solo*)
+1. PhD : [Leandro Arab Marcomini]() : *Method for detecting and classifying truck axles based on video images* | (*Método de detecção e classificação de eixos de caminhões baseado em imagens de vídeo*)
+1. PhD : [Elaine Rodrigues Ribeiro]() : *Analysis of motorcyclist' behaviour on urban segments: Relationship between riding patterns and rider profile* | (*Análise do comportamento de motociclistas em trechos urbanos: relação entre pilotagem e perfil do condutor*)
+1. PhD : [Thiago Vinícius Louro](https://lattes.cnpq.br/2619402198229137) : *Evaluating potential accessibility and spatial equity impacts of electric bicycles in São Paulo, Brazil* | (*Avaliando os impactos potenciais da acessibilidade e equidade espacial das bicicletas elétricas em São Paulo, Brasil*)
+1. PhD : [Pedro Henrique Caldeira Caliari](http://lattes.cnpq.br/7503266177637246) : *Evaluation of causal inference and spatial effects on travel behavior* | (*Avaliação da inferência causal e dos efeitos espaciais no comportamento de viagem*)
 
 
 ### Concluded
