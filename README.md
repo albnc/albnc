@@ -142,7 +142,6 @@ Objectives
 1. MSc : [Andressa Vitório Costa](http://lattes.cnpq.br/7862988333397510) : *Accessibility to Social Services in Belo Horizonte-MG* | (*Acessibilidade aos Serviços Sociais em Belo Horizonte-MG*)
 1. MSc : [Maria Eduarda Saquetto Michelini](http://lattes.cnpq.br/6355612958124418) : *Development of an Emission Estimation Model for Brazilian Cases* | (*Elaboração de modelo de estimativa de emissão de poluentes para casos brasileiros*)
 1. MSc : [Rodrigo Otávio Fraga Peixoto de Oliveira](http://lattes.cnpq.br/3660336154224847) : *Urban resilience assessment through a comparative study of flood prediction methods* | (*Avaliação da resiliência urbana por um estudo comparativo de métodos de previsão de alagamentos*)
-1. PhD : [Andre Borgato Morelli]() : *Vulnerability analysis in Brazilian urban networks: Exploring the impact of flooding and its relationship with morphology and land use.* | (*Análise da vulnerabilidade em redes urbanas brasileiras: Explorando o impacto de alagamentos e sua relação com a morfologia e uso do solo*)
 1. PhD : [Leandro Arab Marcomini]() : *Method for detecting and classifying truck axles based on video images* | (*Método de detecção e classificação de eixos de caminhões baseado em imagens de vídeo*)
 1. PhD : [Elaine Rodrigues Ribeiro]() : *Analysis of motorcyclist' behaviour on urban segments: Relationship between riding patterns and rider profile* | (*Análise do comportamento de motociclistas em trechos urbanos: relação entre pilotagem e perfil do condutor*)
 1. PhD : [Thiago Vinícius Louro](https://lattes.cnpq.br/2619402198229137) : *Evaluating potential accessibility and spatial equity impacts of electric bicycles in São Paulo, Brazil* | (*Avaliando os impactos potenciais da acessibilidade e equidade espacial das bicicletas elétricas em São Paulo, Brasil*)
@@ -163,6 +162,8 @@ Objectives
 10. MSc (2021-08-05): [Helena Stein Stefani](https://lattes.cnpq.br/2263620972100266) : *[Urban roadway traffic flow prediction from crowdsourced speed data](https://doi.org/10.11606/D.18.2021.tde-22082022-091919)* | (*Método de previsão de fluxo de tráfego em rodovias urbanas a partir de dados de velocidade de fontes online*)
 11. MSc (2022-08-19): [Paola Yumi Matsumoto](https://lattes.cnpq.br/6933325479741942) : *[Calibration of Cellular Automata model for simulation of the traffic flow behavior in São Paulo roads](https://doi.org/10.11606/D.18.2022.tde-18102022-103557)* | (*Calibração de modelo Cellular Automata para simulação do comportamento do tráfego veicular em rodovias paulistas*)
 12. MSc (2024-08-27): [Crhistian Emilio Ribeiro]() : *[Evaluation of deep neural networks for vehicle detection in satellite images](https://doi.org/10.11606/D.18.2024.tde-31102024-114415)* | (*Avaliação de redes neurais profundas para detecção veicular em imagens de satélite*)
+13. PhD : [Andre Borgato Morelli]() : *[Vulnerability analysis in Brazilian urban networks: Exploring the impact of flooding and its relationship with morphology and land use]()* | (*Análise da vulnerabilidade em redes urbanas brasileiras: Explorando o impacto de alagamentos e sua relação com a morfologia e uso do solo*)
+
 
 </details>
 
