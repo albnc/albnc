@@ -111,13 +111,20 @@ Objectives
 
 ## Collaborator
 
-1. *Studies aimed at promoting sustainable and safe urban mobility*. Coordinator: [Prof. Paulo Cesar Marques da Silva](http://lattes.cnpq.br/1518119916915399), University of Brasília (UnB). CAPES/FCT Program No. 39/2017 — Duration: 12/05/2023 to 12/31/2026.
+1. *Studies aimed at promoting sustainable and safe urban mobility*. Coordinator: [Prof. Paulo Cesar Marques da Silva](http://lattes.cnpq.br/1518119916915399), University of Brasília (UnB). CAPES/FCT Program No. 39/2017 — Duration: 12/05/2016 to 31/12/2021.
 
-2. *Application of deep learning in intelligent traffic control systems*. Coordinator: [Associate Prof. Edouard Ivanjko](https://scholar.google.hr/citations?user=d4JR_bMAAAAJ&hl=en), University of Zagreb (UNIZG) — Duration: 05/11/2018 to 12/31/2018.
+2. *Application of deep learning in intelligent traffic control systems*. Coordinator: [Associate Prof. Edouard Ivanjko](https://scholar.google.hr/citations?user=d4JR_bMAAAAJ&hl=en), University of Zagreb (UNIZG) — Duration: 05/11/2018 to 31/12/2018.
 
 3. *Development of a Capacity Manual for highways in São Paulo State*. Technical-Scientific Cooperation Agreement between ARTESP (São Paulo State Transport Regulatory Agency) and USP-EESC (São Carlos School of Engineering, University of São Paulo). Coordinator: [Prof. José Reynaldo Anselmo Setti](https://scholar.google.hr/citations?hl=en&user=dhzpfA0AAAAJ), USP-EESC — Duration: November 2018 to present.
 
 4. *Innovative Control Strategies for Sustainable Mobility in Smart Cities*. Coordinator: [Prof. Tonci Caric](https://scholar.google.hr/citations?user=wPlWhpsAAAAJ&hl=en), University of Zagreb (UNIZG) — Duration: 05/25/2021 to 12/31/2021.
+
+5. *Artificial Intelligence Recreating Environments (IARA) - Applied Research Centers Program (CEPID)*. Coordinator: [André Carlos Ponce de Leon Ferreira de Carvalho](https://scholar.google.com/citations?user=Jx_5GrgAAAAJ&hl=en), , University of São Paulo (USP) - Duration: 01/01/2023 to 31/12/2028. FAPESP Grant (20/09835-1), Brazil.
+
+
+6. *Pavement Recycling as a Pillar of Decarbonization - Centers for Science for Development (CCD)*. Coordinator:[Kamilla Vasconcelos Savasini]( http://lattes.cnpq.br/7359605517746490), University of São Paulo (USP) - Duration: 01/11/2025 to 31/10/2030. FAPESP Grant (2025/07146-8), Brazil.
+
+
 
 </details>
 
@@ -133,10 +140,9 @@ Objectives
 2. ME : [Maria Eduarda Saquetto Michelini](http://lattes.cnpq.br/6355612958124418) : *Development of an Emission Estimation Model for Brazilian Cases* | (*Elaboração de modelo de estimativa de emissão de poluentes para casos brasileiros*)
 3. ME : [Rodrigo Otávio Fraga Peixoto de Oliveira](http://lattes.cnpq.br/3660336154224847) : *Urban resilience assessment through a comparative study of flood prediction methods* | (*Avaliação da resiliência urbana por um estudo comparativo de métodos de previsão de alagamentos*)
 4. DO : [Andre Borgato Morelli]() : *Vulnerability analysis in Brazilian urban networks: Exploring the impact of flooding and its relationship with morphology and land use.* | (*Análise da vulnerabilidade em redes urbanas brasileiras: Explorando o impacto de alagamentos e sua relação com a morfologia e uso do solo*)
-5. DO : [Leandro Arab Marcomini]() : *Method for detecting and classifying truck axles based on video images* | (*Método de detecção e classificação de eixos de caminhões baseado em imagens de vídeo*)
-6. DO : [Elaine Rodrigues Ribeiro]() : *Analysis of motorcyclist' behaviour on urban segments: Relationship between riding patterns and rider profile* | (*Análise do comportamento de motociclistas em trechos urbanos: relação entre pilotagem e perfil do condutor*)
-7. DO : [Thiago Vinícius Louro](https://lattes.cnpq.br/2619402198229137) : *Evaluating potential accessibility and spatial equity impacts of electric bicycles in São Paulo, Brazil* | (*Avaliando os impactos potenciais da acessibilidade e equidade espacial das bicicletas elétricas em São Paulo, Brasil*)
-8. DO : [Pedro Henrique Caldeira Caliari](http://lattes.cnpq.br/7503266177637246) : *Evaluation of causal inference and spatial effects on travel behavior* | (*Avaliação da inferência causal e dos efeitos espaciais no comportamento de viagem*)
+5. DO : [Elaine Rodrigues Ribeiro]() : *Analysis of motorcyclist' behaviour on urban segments: Relationship between riding patterns and rider profile* | (*Análise do comportamento de motociclistas em trechos urbanos: relação entre pilotagem e perfil do condutor*)
+6. DO : [Thiago Vinícius Louro](https://lattes.cnpq.br/2619402198229137) : *Evaluating potential accessibility and spatial equity impacts of electric bicycles in São Paulo, Brazil* | (*Avaliando os impactos potenciais da acessibilidade e equidade espacial das bicicletas elétricas em São Paulo, Brasil*)
+7. DO : [Pedro Henrique Caldeira Caliari](http://lattes.cnpq.br/7503266177637246) : *Evaluation of causal inference and spatial effects on travel behavior* | (*Avaliação da inferência causal e dos efeitos espaciais no comportamento de viagem*)
 
 
 ### Concluded
@@ -153,6 +159,8 @@ Objectives
 10. ME (2021-08-05): [Helena Stein Stefani](https://lattes.cnpq.br/2263620972100266) : *[Urban roadway traffic flow prediction from crowdsourced speed data](https://doi.org/10.11606/D.18.2021.tde-22082022-091919)* | (*Método de previsão de fluxo de tráfego em rodovias urbanas a partir de dados de velocidade de fontes online*)
 11. ME (2022-08-19): [Paola Yumi Matsumoto](https://lattes.cnpq.br/6933325479741942) : *[Calibration of Cellular Automata model for simulation of the traffic flow behavior in São Paulo roads](https://doi.org/10.11606/D.18.2022.tde-18102022-103557)* | (*Calibração de modelo Cellular Automata para simulação do comportamento do tráfego veicular em rodovias paulistas*)
 12. ME (2024-08-27): [Crhistian Emilio Ribeiro]() : *[Evaluation of deep neural networks for vehicle detection in satellite images](https://doi.org/10.11606/D.18.2024.tde-31102024-114415)* | (*Avaliação de redes neurais profundas para detecção veicular em imagens de satélite*)
+
+13. DO (2025-12-08) [Leandro Arab Marcomini](https://scholar.google.com/citations?user=AcNWryQAAAAJ&hl=en) : *[Classification of trucks by axles using Deep Learning and a Large Multimodal Model]()* | (*Classificação de caminhões por eixos com Aprendizagem Profunda e um Modelo Multimodal de Larga Escala*)
 
 </details>
 
