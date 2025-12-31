@@ -161,7 +161,7 @@ Objectives
 
 13. Ph.D. (2025-05-23) : [Andre Borgato Morelli](https://scholar.google.com/citations?user=BqdPZ2gAAAAJ&hl=en) : *Analysis of Flood Vulnerability in Brazilian Urban Networks Using Graph Theory Tools.* | (*Análise da Vulnerabilidade a Alagamentos de Redes Urbanas Brasileiras por Meio de Ferramentas da Teoria dos Grafos.*)
 
-14. Ph.D. (2025-12-08) [Leandro Arab Marcomini](https://scholar.google.com/citations?user=AcNWryQAAAAJ&hl=en) : *[Classification of trucks by axles using Deep Learning and a Large Multimodal Model]()* | (*Classificação de caminhões por eixos com Aprendizagem Profunda e um Modelo Multimodal de Larga Escala*)
+14. Ph.D. (2025-12-08) [Leandro Arab Marcomini](https://scholar.google.com/citations?user=AcNWryQAAAAJ&hl=en) : *Classification of trucks by axles using Deep Learning and a Large Multimodal Model* | (*Classificação de caminhões por eixos com Aprendizagem Profunda e um Modelo Multimodal de Larga Escala*)
 
 </details>
 
@@ -170,9 +170,9 @@ Objectives
 
   ## Scientific Initiation
   ### Ongoing
-1. Patrick Gabriel Quintino. *Impacto da composição da frota de caminhões em projetos de rampas de escape de emergência*. 2024. Iniciação científica (Engenharia Civil) - Universidade de São Paulo. Bolsista PUB (Programa Unificado de Bolsas).
+1. Fabricio de Matos. *Análise de acessibilidade à equipamentos públicos por ônibus em cidades brasileiras*. 2026. Iniciação científica (Engenharia Civil) - Universidade de São Paulo. Bolsista Bolsista CNPq PIBIC (Programa Institucional de Bolsas de Iniciação Científica).
 
-2. Gabriel Brunhara Alizon. *Vulnerabilidade de vias urbanas a eventos climáticos extremos a partir de características topográficas e morfológica*. 2024. Iniciação científica (Engenharia Civil) - Universidade de São Paulo. Bolsista CNPq PIBIC (Programa Institucional de Bolsas de Iniciação Científica).
+2. Isabelly Cristine Candido Batista. *Análise de acessibilidade por ônibus em Santa Rita do Sapucaí - MG*. 2026. Iniciação científica (Engenharia Civil) - Universidade de São Paulo. 
   
   ### Concluded
 1. Fernando Silva Lima. *Calibração dos parâmetros fundamentais das curvas fluxo-velocidade em rodovias divididas do estado de São Paulo*. 2017. Iniciação científica (Engenharia Civil) - Universidade de São Paulo. Bolsista CNPq PIBIC (Programa Institucional de Bolsas de Iniciação Científica) -- 01/08/2016 a 31/07/2017
@@ -202,6 +202,11 @@ Objectives
 13. Luan Andre Contel. *Criação de banco de dados de imagens de satélite para detecção de veículos*. 2024. Iniciação científica (Engenharia Civil) - Universidade de São Paulo. Bolsista PUB (Programa Unificado de Bolsas) -- 31/08/2023 a 30/08/2024.
 
 14. Guilherme Lima Bigatao. *Análise do padrão de viagens feitas por bicicletas elétricas e convencionais em um sistema de compartilhamento de bicicletas na cidade de São Paulo*. 2024. Iniciação científica (Engenharia Civil) - Universidade de São Paulo. Bolsista PUB (Programa Unificado de Bolsas) -- 31/08/2023 a 30/08/2024.  
+
+15. Gabriel Brunhara Alizon. *Vulnerabilidade de vias urbanas a eventos climáticos extremos a partir de características topográficas e morfológica*. 2025. Iniciação científica (Engenharia Civil) - Universidade de São Paulo. Bolsista PUB (Programa Unificado de Bolsas) -- 01/09/2024 a 31/08/2025.
+
+16. Patrick Gabriel Quintino. *Impacto da composição da frota de caminhões em projetos de rampas de escape de emergência*. 2025. Iniciação científica (Engenharia Civil) - Universidade de São Paulo. Bolsista CNPq PIBIC (Programa Institucional de Bolsas de Iniciação Científica) -- 01/09/2024 a 31/08/2025.
+
   
   ## Capstone Project
 1. Diego César Corte. *Proposta de um novo projeto geométrico para a interseção mais crítica da rodovia Régis Bittencourt*. 2015. Curso (Engenharia Civil) - Universidade de São Paulo
