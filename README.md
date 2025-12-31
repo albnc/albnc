@@ -170,7 +170,7 @@ Objectives
 
   ## Scientific Initiation
   ### Ongoing
-1. Fabricio de Matos. *Análise de acessibilidade à equipamentos públicos por ônibus em cidades brasileiras*. 2026. Iniciação científica (Engenharia Civil) - Universidade de São Paulo. Bolsista Bolsista CNPq PIBIC (Programa Institucional de Bolsas de Iniciação Científica).
+1. Fabricio de Matos. *Análise de acessibilidade à equipamentos públicos por ônibus em cidades brasileiras*. 2026. Iniciação científica (Engenharia Civil) - Universidade de São Paulo. Bolsista CNPq PIBIC (Programa Institucional de Bolsas de Iniciação Científica).
 
 2. Isabelly Cristine Candido Batista. *Análise de acessibilidade por ônibus em Santa Rita do Sapucaí - MG*. 2026. Iniciação científica (Engenharia Civil) - Universidade de São Paulo. 
   
