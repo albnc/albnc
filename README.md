@@ -257,6 +257,7 @@ Objectives
 
 24. Guilherme Souza Araujo. *Análise da viabilidade financeira de uma planta de geração de energia solar na Paraíba*. 2024. Curso (Engenharia Civil) - Universidade de São Paulo
 
+25. Guilherme Lima Bigatão. *Desenvolvimento da cadeia de suprimentos em obras e reformas*. 2025. Curso (Engenharia Civil) - Universidade de São Paulo
   
   
 </details>
