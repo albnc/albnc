@@ -140,7 +140,7 @@ Objectives
 2. M.Sc. : [Maria Eduarda Saquetto Michelini](http://lattes.cnpq.br/6355612958124418) : *Development of an Emission Estimation Model for Brazilian Cases* | (*Elaboração de modelo de estimativa de emissão de poluentes para casos brasileiros*)
 3. M.Sc. : [Rodrigo Otávio Fraga Peixoto de Oliveira](http://lattes.cnpq.br/3660336154224847) : *Urban resilience assessment through a comparative study of flood prediction methods* | (*Avaliação da resiliência urbana por um estudo comparativo de métodos de previsão de alagamentos*)
 5. Ph.D. : [Elaine Rodrigues Ribeiro]() : *Analysis of motorcyclist' behaviour on urban segments: Relationship between riding patterns and rider profile* | (*Análise do comportamento de motociclistas em trechos urbanos: relação entre pilotagem e perfil do condutor*)
-6. Ph.D. : [Thiago Vinícius Louro](https://lattes.cnpq.br/2619402198229137) : *Evaluating potential accessibility and spatial equity impacts of electric bicycles in São Paulo, Brazil* | (*Avaliando os impactos potenciais da acessibilidade e equidade espacial das bicicletas elétricas em São Paulo, Brasil*)
+6. Ph.D. : [Thiago Vinícius Louro](https://lattes.cnpq.br/2619402198229137) : *Examining The Impacts Of Electric Bicycles On Accessibility To Jobs And Spatial Equity* | (*Analisando os impactos das bicicletas elétricas na acessibilidade a empregos e equidade espacial*)
 7. Ph.D. : [Pedro Henrique Caldeira Caliari](http://lattes.cnpq.br/7503266177637246) : *Evaluation of causal inference and spatial effects on travel behavior* | (*Avaliação da inferência causal e dos efeitos espaciais no comportamento de viagem*)
 
 
@@ -161,7 +161,7 @@ Objectives
 
 13. Ph.D. (2025-05-23) : [Andre Borgato Morelli](https://scholar.google.com/citations?user=BqdPZ2gAAAAJ&hl=en) : *Analysis of Flood Vulnerability in Brazilian Urban Networks Using Graph Theory Tools.* | (*Análise da Vulnerabilidade a Alagamentos de Redes Urbanas Brasileiras por Meio de Ferramentas da Teoria dos Grafos.*)
 
-14. Ph.D. (2025-12-08) [Leandro Arab Marcomini](https://scholar.google.com/citations?user=AcNWryQAAAAJ&hl=en) : *Classification of trucks by axles using Deep Learning and a Large Multimodal Model* | (*Classificação de caminhões por eixos com Aprendizagem Profunda e um Modelo Multimodal de Larga Escala*)
+14. Ph.D. (2025-12-08) : [Leandro Arab Marcomini](https://scholar.google.com/citations?user=AcNWryQAAAAJ&hl=en) : *Classification of trucks by axles using Deep Learning and a Large Multimodal Model* | (*Classificação de caminhões por eixos com Aprendizagem Profunda e um Modelo Multimodal de Larga Escala*)
 
 </details>
 
