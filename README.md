@@ -201,12 +201,16 @@ Objectives
 
 13. Luan Andre Contel. *Criação de banco de dados de imagens de satélite para detecção de veículos*. 2024. Iniciação científica (Engenharia Civil) - Universidade de São Paulo. Bolsista PUB (Programa Unificado de Bolsas) -- 31/08/2023 a 30/08/2024.
 
+<<<<<<< Updated upstream
 14. Guilherme Lima Bigatao. *Análise do padrão de viagens feitas por bicicletas elétricas e convencionais em um sistema de compartilhamento de bicicletas na cidade de São Paulo*. 2024. Iniciação científica (Engenharia Civil) - Universidade de São Paulo. Bolsista PUB (Programa Unificado de Bolsas) -- 31/08/2023 a 30/08/2024.  
 
 15. Gabriel Brunhara Alizon. *Vulnerabilidade de vias urbanas a eventos climáticos extremos a partir de características topográficas e morfológica*. 2025. Iniciação científica (Engenharia Civil) - Universidade de São Paulo. Bolsista PUB (Programa Unificado de Bolsas) -- 01/09/2024 a 31/08/2025.
 
 16. Patrick Gabriel Quintino. *Impacto da composição da frota de caminhões em projetos de rampas de escape de emergência*. 2025. Iniciação científica (Engenharia Civil) - Universidade de São Paulo. Bolsista CNPq PIBIC (Programa Institucional de Bolsas de Iniciação Científica) -- 01/09/2024 a 31/08/2025.
 
+=======
+14. Guilherme Lima Bigatão. *Análise do padrão de viagens feitas por bicicletas elétricas e convencionais em um sistema de compartilhamento de bicicletas na cidade de São Paulo*. 2024. Iniciação científica (Engenharia Civil) - Universidade de São Paulo. Bolsista PUB (Programa Unificado de Bolsas) -- 31/08/2023 a 30/08/2024.  
+>>>>>>> Stashed changes
   
   ## Capstone Project
 1. Diego César Corte. *Proposta de um novo projeto geométrico para a interseção mais crítica da rodovia Régis Bittencourt*. 2015. Curso (Engenharia Civil) - Universidade de São Paulo
@@ -257,7 +261,14 @@ Objectives
 
 24. Guilherme Souza Araujo. *Análise da viabilidade financeira de uma planta de geração de energia solar na Paraíba*. 2024. Curso (Engenharia Civil) - Universidade de São Paulo
 
+<<<<<<< Updated upstream
 25. Guilherme Lima Bigatão. *Desenvolvimento da cadeia de suprimentos em obras e reformas*. 2025. Curso (Engenharia Civil) - Universidade de São Paulo
+=======
+25. Guilherme Lima Bigatão. 
+
+26. Laura Kumakura Cavalieri Fleury.
+
+>>>>>>> Stashed changes
   
   
 </details>
